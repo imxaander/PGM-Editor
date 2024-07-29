@@ -1,4 +1,4 @@
-#PGM EDITOR (not yet done)
+# PGM EDITOR (not yet done)
 
-###Description
+### Description
 This is a pgm editor made by me, with crazy implementation ok 
